@@ -11,20 +11,23 @@
 .item-box-1 {
     flex:2;
     order:2;
+    background-color: darkmagenta;
 }
 
 .item-box2 {
     flex:1;
-    order:1;
-
+    order:2;
+    background-color: blueviolet;
 }
 
 .item-box-3{
     flex:2;
     order:3;
+    background-color: crimson;
 }
 
 .item-box-4{
     flex:2;
-    order:1;
+    order:4;
+    background-color: darkgray;
 }
